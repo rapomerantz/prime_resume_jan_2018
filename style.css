@@ -1,5 +1,5 @@
 body {
-	font: 18px Ariel, Sans-Serif;
+	font: 17px Ariel, Sans-Serif;
 	background-color: darkslategray;
 }
 
@@ -28,24 +28,24 @@ body {
 }  
 
 h1 {
-	font-size: 35px;
+	font-size: 24px;
 	margin-bottom: -6px;
 }
 
 h2 {
-	font-size: 19px;
+	font-size: 24px;
 	margin-bottom: -5px;
   padding: 0px 0px 0px 0px;
 }
 
 h3 {
-	font-size: 19px;
+	font-size: 20px;
 	margin-bottom: 0px;
   padding: 0px 0px 0px 0px;
 }
   
 h4 {
-	font-size: 15px;
+	font-size: 18px;
 	margin-bottom: 0px;
   padding: 0px 0px 0px 0px;
 }
