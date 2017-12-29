@@ -1,5 +1,6 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
+	color: white
 	background-color: PapayaWhip;
 }
 
@@ -11,12 +12,13 @@ body {
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #C4CECD;
+	background-color: black;
 
 	text-align: left;
 
 .title {
-	border: 5px solid black;
+	border: 5px solid white;
+	text-align: center; 
 }
 
 
